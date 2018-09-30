@@ -79,3 +79,7 @@ print ("%s karakteri %d adet var" %(harf, len(sayı)))
 #yazdırmanın yeni yöntemi
 print("{} karakteri {} adet var".format(harf, len(sayı)))
 
+
+kelime = "hasan"
+ilkharfi = kelime[0]
+print(ilkharfi)
